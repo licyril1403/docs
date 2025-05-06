@@ -19,4 +19,5 @@ actions:
 ---
 
 ##Abstract
+
 Deep learning methods are now achieving strong results for segmentation tasks, and the standard metric for evaluating methods is the Intersection over Union (IOU). However, we show in this paper that IOU is not efficient in evaluating the quality of segmentation for electron tomography (ET) images of zeolites. We perform a physics-oriented evaluation to ensure that the segmentation results yield coherent physical measures. We also formalize Mixed Supervised / Self-Supervised Contrastive Learning Segmentation (M3S-CLS), a semi-supervised approach using a contrastive learning approach that uses expert annotations to train the neural network model. A detailed comparison of this method with a standard cross-entry-based model is provided. In addition, we publish a database of five fully segmented ET volumes along with corresponding baseline results.
