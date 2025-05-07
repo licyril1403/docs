@@ -1,13 +1,14 @@
 ---
 layout: home
 paginate: true
+title: "Contrastive Learning and Physics Oriented Evaluation for Advanced Segmentation in Electron Tomography"
 alt_title: "Contrastive Learning and Physics Oriented Evaluation for Advanced Segmentation in Electron Tomography"
 sub_title: "Cyril Li, Christophe Ducottet, Maxime Moreaud, Sylvain Desroziers, Valentina Girelli Consolaro, Virgile Rouchon, Ovidiu Ersen"
-image: /assets/images/contrastive_method.png
+image: /assets/images/semi_supervised_setup.png
 introduction: M3S-CLS is a semi-supervised segmentation in the particular context of the assessment of zeolite catalytic properties. We provide an implementation of M3S-CLS and a dataset of five fully segmented ET volumes.
 
 actions:
-  - label: "Github"
+  - label: "Code"
     icon: github
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
   - label: "Paper"
