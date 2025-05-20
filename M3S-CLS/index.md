@@ -9,13 +9,13 @@ introduction: M3S-CLS is a semi-supervised segmentation in the particular contex
 actions:
   - label: "Code"
     icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+    url: "https://github.com/licyril1403/M3S-CLS"
   - label: "Paper"
     icon: pdf
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
   - label: "Database"
     icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+    url: "https://1drv.ms/u/c/a17cae2346a35cfe/EUt9HJ9ijm1PvhPsq9ZM-usBNz19eWNaObbBpeiUPhBXlw?e=pKKveJ"
 ---
 
 ![Semi supervised setup](/assets/images/semi_supervised_setup.png)
